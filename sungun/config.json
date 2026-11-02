@@ -1,4 +1,10 @@
 {
   "enabled": true,
-  "sections": {}
+  "sections": {},
+  "sites": [
+    {
+      "key": "nicicocom",
+      "url": "https://my.nicico.ir/Authentication/Login?ReturnUrl=%2F"
+    }
+  ]
 }
