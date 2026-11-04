@@ -1,4 +1,11 @@
 {
   "enabled": true,
-  "items": []
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/sungun/banner-afiw.png",
+      "image": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/sungun/banner-afiw.png",
+      "link": "https://cafebazaar.ir/app/?id=ir.shiftapp.shiftma&ref=share",
+      "title": ""
+    }
+  ]
 }
