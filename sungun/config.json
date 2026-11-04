@@ -3,8 +3,8 @@
   "sections": {},
   "sites": [
     {
-      "key": "nicicocom",
-      "url": "https://my.nicico.ir/Authentication/Login?ReturnUrl=%2F"
+      "key": "nicico",
+      "url": "https://my.nicico.ir/Authentication/Login?ReturnUrl=%2FLegalReceipt%2FFullPayslips"
     }
   ]
 }
