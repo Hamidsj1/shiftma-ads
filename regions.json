@@ -1,0 +1,42 @@
+{
+  "enabled": true,
+  "regions": [
+    {
+      "id": "sungun",
+      "hosts": [
+        "my.nicico.ir"
+      ],
+      "sigs": [
+        "d449c8419d48"
+      ],
+      "configFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/sungun/config.json",
+      "adsFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/sungun/ad.json",
+      "noticeFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/sungun/notice.json",
+      "publicAds": true
+    },
+    {
+      "id": "sarcheshmeh",
+      "hosts": [],
+      "sigs": [],
+      "configFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/sarcheshmeh/config.json",
+      "adsFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/sarcheshmeh/ad.json",
+      "noticeFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/sarcheshmeh/notice.json"
+    },
+    {
+      "id": "shahrbabak",
+      "hosts": [],
+      "sigs": [],
+      "configFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/shahrbabak/config.json",
+      "adsFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/shahrbabak/ad.json",
+      "noticeFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/shahrbabak/notice.json"
+    },
+    {
+      "id": "daralu",
+      "hosts": [],
+      "sigs": [],
+      "configFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/daralu/config.json",
+      "adsFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/daralu/ad.json",
+      "noticeFeed": "https://raw.githubusercontent.com/Hamidsj1/shiftma-ads/main/daralu/notice.json"
+    }
+  ]
+}
